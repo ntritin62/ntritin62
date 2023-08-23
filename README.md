@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Trí Tín</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">I am Tín, a student specializing in Frontend Development. I am currently studying at the School of Information Technology, Ho Chi Minh City University of Technology, Vietnam National University.
+
+In my studies, I have acquired knowledge in HTML, CSS, and JavaScript, which are fundamental technologies for Frontend development. I have also delved into popular library such as React to build high-quality and maintainable web applications. I've also worked with Node.js to create server-side applications and interact with databases like MongoDB.
+
+I am passionate about creating appealing and interactive user interfaces that provide a seamless user experience across different devices. I stay updated with the latest trends in the Frontend field to enhance my skills and apply advanced development techniques.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
