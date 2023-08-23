@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tín</h1>
+<h1 align="left">Hi 👋, I'm Tín</h1>
 <p align="left">I am a student specializing in Frontend Development. I am currently studying at the School of Information Technology, Ho Chi Minh City University of Technology, Vietnam National University.
 
 In my studies, I have acquired knowledge in HTML, CSS, and JavaScript, which are fundamental technologies for Frontend development. I have also delved into popular library such as React to build high-quality and maintainable web applications. I've also worked with Node.js to create server-side applications and interact with databases like MongoDB.
