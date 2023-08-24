@@ -1,6 +1,7 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+<h1 align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=100&center=true&vCenter=true&width=500&height=70&lines=Hi+there!%F0%9F%91%8B;I'm+Tin)]
+</h1>
 
-<h1 align="left">Hi 👋, I'm Tín</h1>
 <p align="left">I am a student specializing in Frontend Development. I am currently studying at the University of Information Technology,  Vietnam National University, Ho Chi Minh City.
 
 In my studies, I have acquired knowledge in HTML, CSS, and JavaScript, which are fundamental technologies for Frontend development. I have also delved into popular library such as React to build high-quality and maintainable web applications. I've also worked with Node.js to create server-side applications and interact with databases like MongoDB.
