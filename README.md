@@ -1,5 +1,5 @@
 <h1 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=100&center=true&vCenter=true&width=500&height=70&lines=Hi+there!%F0%9F%91%8B;I'm+Tin)]
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=100&center=true&vCenter=true&width=500&height=70&lines=Hi+there!%F0%9F%91%8B;I'm+Tin" alt=""/>
 </h1>
 
 <p align="left">I am a student specializing in Frontend Development. I am currently studying at the University of Information Technology,  Vietnam National University, Ho Chi Minh City.
