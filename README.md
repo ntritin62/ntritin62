@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+
 <h1 align="left">Hi 👋, I'm Tín</h1>
 <p align="left">I am a student specializing in Frontend Development. I am currently studying at the University of Information Technology,  Vietnam National University, Ho Chi Minh City.
 
