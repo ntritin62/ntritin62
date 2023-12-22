@@ -3,16 +3,20 @@
 </h1>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntritin62&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ntritin62&theme=highcontrast)](https://git.io/streak-stats)
-
-
-
-<h3 align="left">Languages and Tools:</h3>
+<hr>
+<h3 align="left" style="fontSize:25px">Languages and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vue,tailwind,express,nodejs,aws,mongodb,mysql,githubactions,docker" />
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,c,vscode,figma,github" /><br>
   
 </div>
+
+<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntritin62&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ntritin62&theme=highcontrast)](https://git.io/streak-stats)
+
+
+
