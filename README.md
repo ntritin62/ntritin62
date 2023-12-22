@@ -5,6 +5,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntritin62&show_icons=true&theme=tokyonight)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,firebase,mongodb,c" /><br>
