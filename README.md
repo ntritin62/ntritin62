@@ -10,6 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vue,tailwind,express,nodejs,aws,mongodb,mysql,githubactions" />
+    <br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,c,vscode,figma,github" /><br>
   
 </div>
