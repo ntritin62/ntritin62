@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntritin62&show_icons=true&theme=tokyonight)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ntritin62)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
