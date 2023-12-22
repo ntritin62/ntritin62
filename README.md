@@ -4,7 +4,7 @@
 <br>
 
 <hr>
-<h3 align="left" style="fontSize:25px">Languages and Tools:</h3>
+<h3 align="left" style="fontSize:25px;color:red;">Languages and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vue,tailwind,express,nodejs,aws,mongodb,mysql,githubactions,docker" />
     <br>
